@@ -6,9 +6,13 @@ My main interests revolve around **Artificial Intelligence**, **Machine Learning
 
 When I’m not coding or debugging (which, let’s be real, is most of the time 😅), you’ll probably find me reading about historical inventions, watching timeless films, or experimenting with a new idea just to see where it leads. I believe in taking small, consistent steps  because even small steps can create big impact over time.  
 
-If you’re someone who likes blending imagination with logic, or if you just enjoy talking about the old and the new — we’ll probably get along great. You can check out my work below or reach out if you’d like to collaborate or chat!  
+If you’re someone who likes blending imagination with logic, or if you just enjoy talking about the old and the new we’ll probably get along great. You can check out my work below or reach out if you’d like to collaborate or chat!  
 
 📧 [atharasneemshaik@gmail.com](mailto:atharasneemshaik@gmail.com)  
 🌐 [Portfolio](https://www.asneemshaik.com) | [LinkedIn](https://www.linkedin.com/in/asneem-athar-shaik-893502209/) | [GitHub](https://github.com/asneem1234)  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asneem1234&label=Profile%20views&color=0e75b6&style=flat" alt="asneem1234" />
+</p>
 
 ⭐ *“The past inspires me, the future drives me.”*
